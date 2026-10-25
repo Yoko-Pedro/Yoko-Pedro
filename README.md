@@ -3,8 +3,6 @@
 
 ### Estudante de Informática | Desenvolvedor em formação
 
-🇦🇴 Angola
-
 *Aprendendo, construindo projetos e transformando ideias em tecnologia.*
 
 <p>
@@ -22,7 +20,7 @@
 
 ## 👨🏾‍💻 Sobre mim
 
-Olá! Sou **Yoko Pedro Nsoki**, estudante angolano de Informática, interessado em programação, tecnologia e desenvolvimento de aplicações.
+Olá! Sou **Yoko Pedro Nsoki**, estudante de Informática, interessado em programação, tecnologia e desenvolvimento de aplicações.
 
 Atualmente, procuro fortalecer os meus fundamentos através do estudo e da prática, com especial interesse no desenvolvimento web e na construção de soluções úteis.
 
