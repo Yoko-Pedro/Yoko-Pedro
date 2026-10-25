@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="assets/foto-perfil.jpg" width="150" alt="Foto de Yoko Pedro Nsoki" />
+<img src="assets/foto-perfil.png" width="150" alt="Foto de Yoko Pedro Nsoki" />
 
 # Yoko Pedro Nsoki
 
