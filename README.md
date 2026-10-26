@@ -112,9 +112,7 @@ O projeto envolve a criação de funcionalidades para apoiar a gestão de uma in
 </div>
 
 <div align="center">
-
-**Inspiração - Deep Focus**
-<iframe width="924" height="520" src="https://www.youtube.com/embed/waJJWdf5g3A?list=RDwaJJWdf5g3A" title="a melhor música clássica para concentração profunda | o peso de um pensamento" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<a href="https://youtu.be/waJJWdf5g3A?list=RDwaJJWdf5g3A">**Inspiração - Deep Focus**</a>
 </div>
 
 
